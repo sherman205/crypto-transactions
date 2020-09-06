@@ -1,0 +1,12 @@
+{
+  "name": "crypto-transactions",
+  "version": "1.0.0",
+  "description": "Process crypto transaction sets",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.10.2"
+  }
+}
